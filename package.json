@@ -1,0 +1,16 @@
+{
+	"name": "uch",
+	"description": "Universal cache handler",
+	"version": "0.0.1",
+	"keywords": ["universal", "cache", "handler", "async"],
+	"author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+	"preferGlobal": false,
+	"engines": {
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:velocityzen/uch.git"
+	},
+	"main": "./index"
+}
